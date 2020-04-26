@@ -24,6 +24,13 @@ body {
 	
 }
 
+/*CAROUSEL*/
+
+/* END OF CAROUSEL*/
+
+textarea.form-control {
+  height: 146px;
+}
 
 .btn-xl {
   padding: 1.25rem 2.5rem;
@@ -49,7 +56,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: 700;
+  font-weight: 500;
+  font-family: 'Baloo Bhaina 2', sans-serif;
 }
 
 .text-faded {
@@ -333,6 +341,10 @@ a:hover, a:focus, a:active {
   color: #2D6958;
 }
 
+.titre-menu:hover {
+    color: white !important;
+}
+
 .btn-primary {
   background-color: #3BA38E !important;
   border-color: #3BA38E !important;
@@ -361,7 +373,8 @@ a:hover, a:focus, a:active {
 
 .btn {
   box-shadow: 0px 3px 3px 0px rgba(0, 0, 0, 0.1);
-  font-weight: 700;
+  font-weight: 300;
+  font-family: 'Work Sans', sans-serif;
 }
 
 .bg-primary {
